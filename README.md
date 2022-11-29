@@ -6,6 +6,15 @@ These templates are very similar to create-react-app but the reason I create the
 
 These templates are templates I created for my own personal use and I use them on every project I make and I wanted to share them to the world!
 
+## How to use?
+1) Download the current release zip file and install it into your coding folder or wherever else you believe they can be easily accessable. 
+2) Now whenever you wish to start a new project open the templates folder
+3) Find the template you want to use 
+4) Copy the zip file to the new folder you provisioned for your project 
+5) Extract its contents (not into a new folder) into the folder 
+6) Then install the packages with `npm install` 
+7) Now have at it!
+
 ## Current Templates
 ### ReactFrontend
 A template for frontend projects using React.js with preinstalled packages
